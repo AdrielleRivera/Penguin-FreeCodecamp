@@ -32,8 +32,11 @@ body {
   width: 200px;
   height: 200px;
   background-color: yellow;
-  position:absolute;
-  border-radius:50%;
+  position: absolute;
+  border-radius: 50%;
+  top:-75px;
+  right:-75px;
+
 }
 
 .penguin {
