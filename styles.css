@@ -79,8 +79,9 @@ body {
   left: 23.5%;
 }
 
-.penguin-body::before{
-  content:"";
+.penguin-body::before {
+  content: "";
+  position:absolute;
 }
 
 .ground {
