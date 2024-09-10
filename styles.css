@@ -1,6 +1,6 @@
 :root {
   --penguin-face: white;
-  --penguin-picorna:orange;
+  --penguin-picorna: orange;
 }
 
 body {
@@ -201,6 +201,13 @@ body {
   top: 85%;
   border-radius: 50%;
 }
+.foot.left{
+  left:25%;
+}
+.foot.right{
+  right:25%;
+}
+
 
 .ground {
   width: 100vw;
