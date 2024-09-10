@@ -146,12 +146,18 @@ body {
   top: 60%;
   left: 40%;
 }
-.beak.bottom{
-  width:16%;
-  top:65%;
-  left:42%;
+
+.beak.bottom {
+  width: 16%;
+  top: 65%;
+  left: 42%;
 }
 
+.shirt{
+  font-size:25px;
+  font-family:Helvetica,sans-serif;
+  font-weight:bold;
+}
 
 .penguin-body {
   width: 53%;
