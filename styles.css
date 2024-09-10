@@ -82,9 +82,11 @@ body {
 .penguin-body::before {
   content: "";
   position: absolute;
-  width:50%;
-  height:45%;
-  background-color:gray;
+  width: 50%;
+  height: 45%;
+  background-color: gray;
+  top:10%;
+  left:25%;
 }
 
 .ground {
